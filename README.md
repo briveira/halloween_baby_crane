@@ -37,3 +37,7 @@ for crane cracks and sounds (I ended up using rocking chair sounds), and
  - sounds/musica.mp3
 
 ...for background music. 
+
+## starting up at boot time
+
+You can use start.sh as launching script, calling it in /etc/rc.local so it will launch at boot time (so you can have the raspberry as a headless setup, just needs to be powered on, and have a speaker connected, of course, to actually hear anything :)
