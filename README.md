@@ -23,17 +23,17 @@ Stepper motor at 7,11,13,15
 
 As I have licence to use them, but not for distribute them, please do create a "sounds" folder with: 
 
-  sounds/lloro_1.wav
-  sounds/lloro_2.wav
-  sounds/lloro_3.wav
+ - sounds/lloro_1.wav
+ - sounds/lloro_2.wav
+ - sounds/lloro_3.wav
 
-...with baby cries (no more than 30 secs each), and...
+...with different baby cries (no more than 30 secs each), and
 
-  sounds/chirrido_1.wav
-  sounds/chirrido_2.wav
+ - sounds/chirrido_1.wav
+ - sounds/chirrido_2.wav
 
-for crane cracks and sounds (I ended up using rocking chair sounds)...
+for crane cracks and sounds (I ended up using rocking chair sounds), and
  
-  sounds/musica.mp3
+ - sounds/musica.mp3
 
 ...for background music. 
